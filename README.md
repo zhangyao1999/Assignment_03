@@ -4,7 +4,7 @@
 
 ---------------------------------------
 #### Requirements
-1. Separating interface from implementation: e.g. Three files: Ex03_13.cpp, Invoice.cpp, Invoice.h are needed  in your folder. You are responsible for creating directiries as follows.  
+1. Separating interface from implementation: e.g. Three files: Ex03_13.cpp, Invoice.cpp, Invoice.h are needed  in your folder. You are responsible for creating directories as follows.  
    Assignment_03/201806040199/Ex03_13/Ex03_13.cpp  
    Assignment_03/201806040199/Ex03_13/Invoice.cpp  
    Assignment_03/201806040199/Ex03_13/Invoice.h  
