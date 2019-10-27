@@ -4,7 +4,10 @@
 
 ---------------------------------------
 #### Requirements
-1. Separating interface from implementation: e.g. Three files: Ex03_13.cpp, Invoice.cpp, Invoice.h are needed  in your folder.
+1. Separating interface from implementation: e.g. Three files: Ex03_13.cpp, Invoice.cpp, Invoice.h are needed  in your folder. You are responsible for creating directiries as follows.  
+   Assignment_03/201806040199/Ex03_13/Ex03_13.cpp  
+   Assignment_03/201806040199/Ex03_13/Invoice.cpp  
+   Assignment_03/201806040199/Ex03_13/Invoice.h  
 2. Using Pascal case and Camel case for naming your classes and objects respectively.
 3. C-style input/output is not allowed!
 4. Commenting code is necessary!
