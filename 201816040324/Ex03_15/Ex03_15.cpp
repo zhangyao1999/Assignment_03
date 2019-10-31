@@ -1,22 +1,15 @@
 
-
-#include <string> // program uses C++ standard string class
+#include <iostream>
 using namespace std;
 
-// Employee class definition
-class Invoice
+#include "Invoice.h" // include definition of class Employee
+
+// function main begins program execution
+int main()
 {
-public:
-   Invoice (int,int, int);/* Declare a constructor that has one parameter for each data member */
-   void setyear(int);
-   void setmonth(int);
-   void setday(int) ;
-   int getyear()const;/* Declare a get method for the employee's first name */
-   int getmonth()const;
-   int getday () const ;
-   void display () ;
-private:
-   int year ;
-   int month;
-   int day ;/* Declare an int data member for the employee's monthly salary */
-}; // end class Employee
+    Invoice invoice1(2019, 10, 31) ;
+    invoice1.display () ;
+
+} // end main
+
+
